@@ -7,7 +7,7 @@
 * MyFavoriteAlbums overview
 
   * [What is MyFavoriteAlbums?](whatis.md)
-  * [What are csv files?](csvwhatis.md)
+  * [What are .csv files?](csvwhatis.md)
   * [How is MyFavoriteAlbums's code organized?](codeorganization.md)
   
 * Instructions and tutorials
@@ -21,9 +21,9 @@
   * [Setting up Shiny](shiny.md)
   * [Working with GitHub](github.md)
     * [Downloading files from GitHub](github-download.md)
-  * [Working with csv files](csv.md)
-    * [Creating csv files](csv-create.md)
-    * [Editing csv files](csv-edit.md)
+  * [Working with .csv files](csv.md)
+    * [Creating .csv files](csv-create.md)
+    * [Editing .csv files](csv-edit.md)
 
 * Additional resources
   
