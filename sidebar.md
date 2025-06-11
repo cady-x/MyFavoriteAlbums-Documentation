@@ -17,3 +17,15 @@
       * [Finding top albums by year](#top-by-year)
       * [Finding average and total ratings by artist](#avg-total-ratings)
       * [Finding #1 albums by year range](#top-by-year-range)
+  * [Setting up R and RStudio](rrstudio.md)
+  * [Setting up Shiny](shiny.md)
+  * [Working with GitHub](github.md)
+    * [Downloading files from GitHub](github-download.md)
+  * [Working with .csv files](csv.md)
+    * [Creating .csv files](csv-create.md)
+    * [Editing .csv files](csv-edit.md)
+
+* Additional resources
+  
+  * [FAQ] (faq.md)
+  * [Glossary](glossary.md)
