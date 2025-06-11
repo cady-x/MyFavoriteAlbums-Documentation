@@ -2,7 +2,7 @@
 
 ## &nbsp; ENGL 396
 
-* [Home](README.md)
+* [Home](whatis.md)
 
 * MyFavoriteAlbums overview
 
