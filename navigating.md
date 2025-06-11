@@ -17,12 +17,36 @@ by year range, and getting info on vinyls you own.
   5. Scroll, or alternatively, type in an artist’s name, then click on the second artist you want to compare.
      ![second artist dropdown](./img/band-comparison-second-dropdown.png)
 
-The **Albums Rating**s graph updates to include data points from each selected artist.
+The **Albums Ratings** graph updates to include data points from each selected artist.
+![albums ratings example graph](./img/band-comparison-graph.png)
 
 
 ### <a id="top-by-year"></a> Finding top albums by year
+  1. Click on the **Top Albums by Year** tab.
+     ![top albums by year tab](./img/top-albums-by-year-tab.png)
+  2. Click on the dropdown menu under **Choose a year:**.
+  3. Scroll, or alternatively type in a year, then click on the year you want to search.
+     ![top album year dropdown](./img/top-albums-by-year-dropdown.png)
+  4.Click the **Submit** button.
+
+A table appears, containing columns for the **Ranking**, **Album**, and **Artist** of all albums released in the selected year.
+The table is sorted in descending order based on ranking. 
+![top albums by year example table](./img/top-albums-by-year-table.png)
+
 
 ### <a id="avg-total-ratings"></a> Finding average and total ratings by artist
+  1. Click on the **Bands and Artists** tab.
+     ![bands and artists tab](./img/bands-and-artists-tab.png)
+  2. Click on the dropdown menu under **Choose a band or artist:**.
+  3. Scroll, or alternatively type in an artist, then click on the artist you want to search for.
+     ![bands and artists dropdown](./img/bands-and-artists-search.png)
+  4.Click the **Submit** button.
+
+A table appears, containing columns for the **Ranking**, **Album**, and **Year** of all albums by the selected artist
+in the dataset, as well as that artist’s cumulative statistics. 
+The table is sorted in ascending order based on album release date.
+![bands and artists example table](./img/bands-and-artists-table.png)
+
 
 ### <a id="top-by-year-range"></a> Finding #1 albums by year range
 
