@@ -13,10 +13,10 @@
 * Instructions and tutorials
   
   * [Navigating through MyFavoriteAlbums](navigating.md)
-      * [Comparing ratings between artists](comparing.md)
-      * [Finding top albums by year](topyear.md)
-      * [Finding average and total ratings by artist](avgtotal.md)
-      * [Finding #1 albums by year range](topyearrange.md)
+      * [Comparing ratings between artists](#compare-ratings)
+      * [Finding top albums by year](#top-by-year)
+      * [Finding average and total ratings by artist](#avg-total-ratings)
+      * [Finding #1 albums by year range](#top-by-year-range)
   * [Setting up R and RStudio](rrstudio.md)
   * [Setting up Shiny](shiny.md)
   * [Working with GitHub](github.md)
