@@ -9,11 +9,13 @@ by year range, and getting info on vinyls you own.
 
 ### <a id="compare-ratings"></a> Comparing ratings between artists
   1. Click on the **Band Comparison** tab.
-     ![band comparison tab]("./images/band-comparison-tab.png")
-  3. Click on the dropdown menu under **First band or artist:**.
-  4. Scroll, or alternatively type in an artist’s name, then click on the first artist you want to compare.
-  5. Click on the dropdown menu under **Second band or artist:**.
-  6. Scroll, or alternatively, type in an artist’s name, then click on the second artist you want to compare.
+     ![band comparison tab](./img/band-comparison-tab.png)
+  2. Click on the dropdown menu under **First band or artist:**.
+  3. Scroll, or alternatively type in an artist’s name, then click on the first artist you want to compare.
+     ![first artist dropdown](./img/band-comparison-first-dropdown.png)
+  4. Click on the dropdown menu under **Second band or artist:**.
+  5. Scroll, or alternatively, type in an artist’s name, then click on the second artist you want to compare.
+     ![second artist dropdown](./img/band-comparison-second-dropdown.png)
 
 The **Albums Rating**s graph updates to include data points from each selected artist.
 
