@@ -13,7 +13,7 @@
 * Instructions and tutorials
   
   * [Navigating through MyFavoriteAlbums](navigating.md)
-      * [Comparing ratings between artists](#compare-ratings)
+      * [Comparing ratings between artists](navigating.md/#compare-ratings)
       * [Finding top albums by year](#top-by-year)
       * [Finding average and total ratings by artist](#avg-total-ratings)
       * [Finding #1 albums by year range](#top-by-year-range)
