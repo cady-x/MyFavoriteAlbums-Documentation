@@ -44,14 +44,21 @@ The table is sorted in descending order based on ranking.
 
 A table appears, containing columns for the **Ranking**, **Album**, and **Year** of all albums by the selected artist
 in the dataset, as well as that artist’s cumulative statistics. 
-The table is sorted in ascending order based on album release date.
+The table is sorted in ascending order based on album release date. Scroll down to view more albums from that artist.
 ![bands and artists example table](./img/bands-and-artists-table.png)
 
 
 ### <a id="top-by-year-range"></a> Finding #1 albums by year range
+  1. Click on the **Number One Album**s tab.
+     ![number one albums tab](./img/number-one-albums-tab.png)
+     A number line with a slider appears on the screen, with a table containing albums in the chosen timeframe underneath.
+  2. To adjust the range of years, click and drag on one end of the slider. The table updates when the slider is released.
+     ![number one albums slider](./img/number-one-albums-sliders.png)
+
+
 
 ### <a id="vinyl"></a> Finding vinyl statistics
-
-
-### Related resources:
-  * 
+  1. Click on the **Vinyl** tab.
+     ![vinyl tab](./img/vinyl-tab.png)
+Two tables appear; with **Top-rated vinyl that I don't own** appearing above **Years for which I own the most vinyl**.
+![vinyl example tables](./img/vinyl-table.png)
