@@ -11,10 +11,11 @@ by year range, and getting info on vinyls you own.
   * [Comparing ratings between artists](###comparing-ratings-between-artists)
   * [Finding top albums by year](###finding-top-albums-by-year)
   * [Finding average and total ratings by artist](###finding-average-and-total-ratings-by-artist)
-  * [Finding #1 albums by year range](###finding-#1-albums-by-year-range)
+  * [Finding #1 albums by year range](###finding-number-1-albums-by-year-range)
   * [Finding vinyl statistics](###finding-vinyl-statistics)
 
 ### Comparing ratings between artists
+[Back to the top](####in-this-document)
   1. Click on the **Band Comparison** tab.
      ![band comparison tab](./img/band-comparison-tab.png)
   2. Click on the dropdown menu under **First band or artist:**.
@@ -29,6 +30,7 @@ The **Albums Ratings** graph updates to include data points from each selected a
 
 
 ### Finding top albums by year
+[Back to the top](####in-this-document)
   1. Click on the **Top Albums by Year** tab.
      ![top albums by year tab](./img/top-albums-by-year-tab.png)
   2. Click on the dropdown menu under **Choose a year:**.
@@ -42,6 +44,7 @@ The table is sorted in descending order based on ranking.
 
 
 ### Finding average and total ratings by artist
+[Back to the top](####in-this-document)
   1. Click on the **Bands and Artists** tab.
      ![bands and artists tab](./img/bands-and-artists-tab.png)
   2. Click on the dropdown menu under **Choose a band or artist:**.
@@ -55,7 +58,8 @@ The table is sorted in ascending order based on album release date. Scroll down 
 ![bands and artists example table](./img/bands-and-artists-table.png)
 
 
-### Finding #1 albums by year range
+### Finding number 1 albums by year range
+[Back to the top](####in-this-document)
   1. Click on the **Number One Album**s tab.
      ![number one albums tab](./img/number-one-albums-tab.png)
      A number line with a slider appears on the screen, with a table containing albums in the chosen timeframe underneath.
@@ -65,6 +69,7 @@ The table is sorted in ascending order based on album release date. Scroll down 
 
 
 ### Finding vinyl statistics
+[Back to the top](####in-this-document)
   1. Click on the **Vinyl** tab.
      ![vinyl tab](./img/vinyl-tab.png)
 Two tables appear; with **Top-rated vinyl that I don't own** appearing above **Years for which I own the most vinyl**.
