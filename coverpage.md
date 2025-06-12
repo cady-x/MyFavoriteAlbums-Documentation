@@ -4,4 +4,4 @@
 
 > Welcome to MyFavoriteAlbums!
 
-[Get Started](whatis.md/#home-page)
+[Get Started](whatis.md)
