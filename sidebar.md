@@ -13,8 +13,8 @@
 * Instructions and tutorials
   
   * [Navigating through MyFavoriteAlbums](navigating.md)
-      * [Comparing ratings between artists](navigating.md/#compare-ratings)
-      * [Finding top albums by year](navigating.md/#top-by-year)
+      * [Comparing ratings between artists](navigating.md/###compare-ratings)
+      * [Finding top albums by year](###top-by-year)
       * [Finding average and total ratings by artist](navigating.md/#avg-total-ratings)
       * [Finding #1 albums by year range](navigating.md/#top-by-year-range)
   * [Setting up R and RStudio](rrstudio.md)
