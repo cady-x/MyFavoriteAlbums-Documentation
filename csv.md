@@ -1,6 +1,6 @@
 # Working with .csv files
 
-MyFavoriteAlbums stores its data in .csv files. These documents will help teach you 
+MyFavoriteAlbums stores its data in .csv files. This document will help teach you 
 the basics of using .csv files, so you can personalize the existing data, 
 or even add additional datasets to be analyzed by the software. 
 
