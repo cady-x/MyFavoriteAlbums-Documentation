@@ -22,8 +22,8 @@
   * [Working with GitHub](github.md)
     * [Downloading files from GitHub](github.md/#download)
   * [Working with .csv files](csv.md)
-    * [Creating .csv files](csv-create.md)
-    * [Editing .csv files](csv-edit.md)
+    * [Creating .csv files](csv.md/#create)
+    * [Editing .csv files](csv.md/#edit)
 
 * Additional resources
   
