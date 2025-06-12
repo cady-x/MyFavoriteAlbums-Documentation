@@ -4,5 +4,4 @@
 
 > Welcome to MyFavoriteAlbums!
 
-[HOME TEST](#home-page)
-[Get Started](README.md)
+[Get Started](#home-page)
