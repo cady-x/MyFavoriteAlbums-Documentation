@@ -20,7 +20,7 @@
   * [Setting up R and RStudio](rrstudio.md)
   * [Setting up Shiny](shiny.md)
   * [Working with GitHub](github.md)
-    * [Downloading files from GitHub](github-download.md)
+    * [Downloading files from GitHub](github.md/#download)
   * [Working with .csv files](csv.md)
     * [Creating .csv files](csv-create.md)
     * [Editing .csv files](csv-edit.md)
