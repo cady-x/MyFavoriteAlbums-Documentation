@@ -17,6 +17,7 @@
       * [Finding top albums by year](###top-by-year)
       * [Finding average and total ratings by artist](https://cady-x.github.io/MyFavoriteAlbums-Documentation/#/navigating?id=avg-total-ratings)
       * [Finding #1 albums by year range](navigating/#top-by-year-range)
+      * [Finding vinyl statistics](###vinyl)
   * [Setting up R and RStudio](rrstudio.md)
   * [Setting up Shiny](shiny.md)
   * [Working with GitHub](github.md)
