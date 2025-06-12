@@ -7,7 +7,11 @@ or even add additional datasets to be analyzed by the software.
 If you only want to modify the existing dataset to contain your own music tastes, you should edit the .csv file locally. 
 If you want to add additional datasets for analysis, you should create new .csv files.
 
-### <a id="create"></a> Creating .csv files
+#### In this document
+  * [Creating .csv files](###creating-.csv-files)
+  * [Editing .csv files](###editing-.csv-files-locally)
+
+### Creating .csv files
 Google Sheets and Excel are both excellent tools that can create .csv files. This document will show you how to create a .csv file.
   1. Create a new spreadsheet
   2. In the topmost row of the spreadsheet, add labels of the features you want to store data of. For example, if you want to store the name, rating, and price of your favorite snacks, your first three columns should say ```name```, ```rating```, and ```price```.
@@ -18,7 +22,7 @@ Google Sheets and Excel are both excellent tools that can create .csv files. Thi
      ![.csv file download workflow](./img/csv-file-download.png)
 
 
-### <a id="edit"></a> Editing .csv files locally
+### Editing .csv files locally
 Google Sheets and Excel are both excellent tools that are commonly used to edit .csv files. This tutorial will go over how to edit .csv files with these softwares.
   1. Open the .csv file you want to edit with either Google Sheets or Excel. The topmost row in the file contains the aspects of data being recorded. Each row represents one datapoint.
      ![.csv file example](./img/csv-file-format.png)
