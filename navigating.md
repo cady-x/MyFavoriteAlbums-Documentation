@@ -7,7 +7,7 @@ MyFavoriteAlbums has separate tabs for comparing ratings between artists,
 finding top albums by year, finding average and total ratings by artist, finding #1 albums
 by year range, and getting info on vinyls you own.
 
-### <a id="compare-ratings"></a> Comparing ratings between artists
+### Comparing ratings between artists
   1. Click on the **Band Comparison** tab.
      ![band comparison tab](./img/band-comparison-tab.png)
   2. Click on the dropdown menu under **First band or artist:**.
