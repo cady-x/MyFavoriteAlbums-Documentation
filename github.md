@@ -8,7 +8,7 @@ If you’d just like to check out MyFavoriteAlbums on your own, downloading the 
 local device is sufficient. On the other hand, you should fork the repository if you are interested 
 in storing your own personal version of the source code on GitHub or further developing the analysis features. 
 
-### <a id="download"></a> Downloading MyFavoriteAlbums from GitHub
+### <a id="download"></a> Downloading MyFavoriteAlbums source code from GitHub
 
   1. Navigate to the [MyFavoriteAlbums GitHub repository](https://github.com/UW-Example-Student/MyFavoriteAlbums?tab=readme-ov-file).
   2. Above the list of files, and below the title of the repository, click **Code**, then **Download Zip**.
