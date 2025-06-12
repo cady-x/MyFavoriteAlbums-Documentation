@@ -2,11 +2,11 @@
 
 ## &nbsp; ENGL 396
 
-* [Home](whatis.md)
+* [Home](README.md)
 
 * MyFavoriteAlbums overview
 
-  * [What is MyFavoriteAlbums?](whatis.md)
+  * [What is MyFavoriteAlbums?](README.md)
   * [What are .csv files?](csvwhatis.md)
   * [How is MyFavoriteAlbums's code organized?](codeorganization.md)
   
@@ -27,5 +27,5 @@
 
 * Additional resources
   
-  * [FAQ] (faq.md)
+  * [FAQ](faq.md)
   * [Glossary](glossary.md)
