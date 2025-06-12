@@ -1,9 +1,5 @@
 # <a id="home-page"></a> Home Page
 
-> This is the home page.
-
-
-
 MyFavoriteAlbums is a web platform that can analyze and filter user data on music taste and preference. 
 Users have the option to filter for number one albums by year (or range of years), see total and average ratings for each artist, 
 find top albums by year, see statistics on vinyl ownership, and compare different artists’ album ratings over time. 
