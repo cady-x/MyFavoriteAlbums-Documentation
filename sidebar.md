@@ -10,12 +10,12 @@
   * [What are .csv files?](csvwhatis.md)
   * [How is MyFavoriteAlbums's code organized?](codeorganization.md)
   
-* Instructions and tutorials - changed
+* Instructions and tutorials - rearranged
   
   * [Navigating through MyFavoriteAlbums](navigating.md)
-      * [Comparing ratings between artists](###comparing-ratings-between-artists)
+      * [Comparing ratings between artists](navigating.md###comparing-ratings-between-artists)
       * [Finding top albums by year](###top-by-year)
-      * [Finding average and total ratings by artist]([navigating.md/](https://cady-x.github.io/MyFavoriteAlbums-Documentation/#/navigating?id=avg-total-ratings)
+      * [Finding average and total ratings by artist](https://cady-x.github.io/MyFavoriteAlbums-Documentation/#/navigating?id=avg-total-ratings)
       * [Finding #1 albums by year range](navigating/#top-by-year-range)
   * [Setting up R and RStudio](rrstudio.md)
   * [Setting up Shiny](shiny.md)
