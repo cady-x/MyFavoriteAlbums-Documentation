@@ -61,4 +61,5 @@ The table is sorted in ascending order based on album release date. Scroll down 
   1. Click on the **Vinyl** tab.
      ![vinyl tab](./img/vinyl-tab.png)
 Two tables appear; with **Top-rated vinyl that I don't own** appearing above **Years for which I own the most vinyl**.
-![vinyl example tables](./img/vinyl-table.png)
+![vinyl example table 1](./img/vinyl-table1.png)
+![vinyl example table 2](./img/vinyl-table2.png)
