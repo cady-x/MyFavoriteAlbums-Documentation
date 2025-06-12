@@ -8,7 +8,7 @@ finding top albums by year, finding average and total ratings by artist, finding
 by year range, and getting info on vinyls you own.
 
 #### In this document:
-  * [Finding #1 albums by year range](###finding-number-1-albums-by-year-range)
+  * [Finding number 1 albums by year range](###finding-number-1-albums-by-year-range)
   * [Finding average and total ratings by artist](###finding-average-and-total-ratings-by-artist)
   * [Finding top albums by year](###finding-top-albums-by-year)
   * [Finding vinyl statistics](###finding-vinyl-statistics)
